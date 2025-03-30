@@ -24,7 +24,7 @@ cd /crypto_dz1
 cd ./simple_substitutions
 python3 main.py
 ```
-Далее следуем командам в CLI.
+Далее следуем командам в CLI.  
 5. Для криптоанализа переходим в папку crypto_analysis и запускаем нужный нам функционал
 - freq_simple.pr - частотный анализ для шифра простой замены
 - simple_affine_dec.py - перебор для аффинного шифра
